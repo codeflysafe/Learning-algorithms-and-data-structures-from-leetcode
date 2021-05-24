@@ -17,7 +17,7 @@ void printNode(vector<string> ans)
 
 void searchPrefix(Trie *trie, string s){
     vector<string> ans = trie->search(s);
-    cout << "Search all strings with the same prefix [" << s << " ]" << endl;
+    cout << "Search all strings with the same prefix [ " << s << " ]" << endl;
     printNode(ans);
 }
 
