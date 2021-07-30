@@ -155,167 +155,32 @@ c_projects/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_projects.dir/build.make CMakeFiles/c_projects.dir/build
 .PHONY : c_projects/fast
 
-examples/binary_tree_test.o: examples/binary_tree_test.cpp.o
+main.o: main.cpp.o
 
-.PHONY : examples/binary_tree_test.o
-
-# target to build an object file
-examples/binary_tree_test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o
-.PHONY : examples/binary_tree_test.cpp.o
-
-examples/binary_tree_test.i: examples/binary_tree_test.cpp.i
-
-.PHONY : examples/binary_tree_test.i
-
-# target to preprocess a source file
-examples/binary_tree_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.i
-.PHONY : examples/binary_tree_test.cpp.i
-
-examples/binary_tree_test.s: examples/binary_tree_test.cpp.s
-
-.PHONY : examples/binary_tree_test.s
-
-# target to generate assembly for a file
-examples/binary_tree_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.s
-.PHONY : examples/binary_tree_test.cpp.s
-
-examples/double_array_tree_test.o: examples/double_array_tree_test.cpp.o
-
-.PHONY : examples/double_array_tree_test.o
+.PHONY : main.o
 
 # target to build an object file
-examples/double_array_tree_test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o
-.PHONY : examples/double_array_tree_test.cpp.o
+main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-examples/double_array_tree_test.i: examples/double_array_tree_test.cpp.i
+main.i: main.cpp.i
 
-.PHONY : examples/double_array_tree_test.i
-
-# target to preprocess a source file
-examples/double_array_tree_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.i
-.PHONY : examples/double_array_tree_test.cpp.i
-
-examples/double_array_tree_test.s: examples/double_array_tree_test.cpp.s
-
-.PHONY : examples/double_array_tree_test.s
-
-# target to generate assembly for a file
-examples/double_array_tree_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.s
-.PHONY : examples/double_array_tree_test.cpp.s
-
-examples/prefix_and_suffix_search.o: examples/prefix_and_suffix_search.cpp.o
-
-.PHONY : examples/prefix_and_suffix_search.o
-
-# target to build an object file
-examples/prefix_and_suffix_search.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o
-.PHONY : examples/prefix_and_suffix_search.cpp.o
-
-examples/prefix_and_suffix_search.i: examples/prefix_and_suffix_search.cpp.i
-
-.PHONY : examples/prefix_and_suffix_search.i
+.PHONY : main.i
 
 # target to preprocess a source file
-examples/prefix_and_suffix_search.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.i
-.PHONY : examples/prefix_and_suffix_search.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-examples/prefix_and_suffix_search.s: examples/prefix_and_suffix_search.cpp.s
+main.s: main.cpp.s
 
-.PHONY : examples/prefix_and_suffix_search.s
-
-# target to generate assembly for a file
-examples/prefix_and_suffix_search.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.s
-.PHONY : examples/prefix_and_suffix_search.cpp.s
-
-examples/seg_tree_test.o: examples/seg_tree_test.cpp.o
-
-.PHONY : examples/seg_tree_test.o
-
-# target to build an object file
-examples/seg_tree_test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o
-.PHONY : examples/seg_tree_test.cpp.o
-
-examples/seg_tree_test.i: examples/seg_tree_test.cpp.i
-
-.PHONY : examples/seg_tree_test.i
-
-# target to preprocess a source file
-examples/seg_tree_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.i
-.PHONY : examples/seg_tree_test.cpp.i
-
-examples/seg_tree_test.s: examples/seg_tree_test.cpp.s
-
-.PHONY : examples/seg_tree_test.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-examples/seg_tree_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.s
-.PHONY : examples/seg_tree_test.cpp.s
-
-examples/trie_test.o: examples/trie_test.cpp.o
-
-.PHONY : examples/trie_test.o
-
-# target to build an object file
-examples/trie_test.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/trie_test.cpp.o
-.PHONY : examples/trie_test.cpp.o
-
-examples/trie_test.i: examples/trie_test.cpp.i
-
-.PHONY : examples/trie_test.i
-
-# target to preprocess a source file
-examples/trie_test.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/trie_test.cpp.i
-.PHONY : examples/trie_test.cpp.i
-
-examples/trie_test.s: examples/trie_test.cpp.s
-
-.PHONY : examples/trie_test.s
-
-# target to generate assembly for a file
-examples/trie_test.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/trie_test.cpp.s
-.PHONY : examples/trie_test.cpp.s
-
-examples/word_dictionary.o: examples/word_dictionary.cpp.o
-
-.PHONY : examples/word_dictionary.o
-
-# target to build an object file
-examples/word_dictionary.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o
-.PHONY : examples/word_dictionary.cpp.o
-
-examples/word_dictionary.i: examples/word_dictionary.cpp.i
-
-.PHONY : examples/word_dictionary.i
-
-# target to preprocess a source file
-examples/word_dictionary.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/word_dictionary.cpp.i
-.PHONY : examples/word_dictionary.cpp.i
-
-examples/word_dictionary.s: examples/word_dictionary.cpp.s
-
-.PHONY : examples/word_dictionary.s
-
-# target to generate assembly for a file
-examples/word_dictionary.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/examples/word_dictionary.cpp.s
-.PHONY : examples/word_dictionary.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 src/binary_tree.o: src/binary_tree.cpp.o
 
@@ -435,24 +300,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... c_project"
 	@echo "... c_projects"
-	@echo "... examples/binary_tree_test.o"
-	@echo "... examples/binary_tree_test.i"
-	@echo "... examples/binary_tree_test.s"
-	@echo "... examples/double_array_tree_test.o"
-	@echo "... examples/double_array_tree_test.i"
-	@echo "... examples/double_array_tree_test.s"
-	@echo "... examples/prefix_and_suffix_search.o"
-	@echo "... examples/prefix_and_suffix_search.i"
-	@echo "... examples/prefix_and_suffix_search.s"
-	@echo "... examples/seg_tree_test.o"
-	@echo "... examples/seg_tree_test.i"
-	@echo "... examples/seg_tree_test.s"
-	@echo "... examples/trie_test.o"
-	@echo "... examples/trie_test.i"
-	@echo "... examples/trie_test.s"
-	@echo "... examples/word_dictionary.o"
-	@echo "... examples/word_dictionary.i"
-	@echo "... examples/word_dictionary.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 	@echo "... src/binary_tree.o"
 	@echo "... src/binary_tree.i"
 	@echo "... src/binary_tree.s"

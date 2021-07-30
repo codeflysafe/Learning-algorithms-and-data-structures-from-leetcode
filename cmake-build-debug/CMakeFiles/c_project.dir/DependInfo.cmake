@@ -4,12 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/binary_tree_test.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o"
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/double_array_tree_test.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o"
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o"
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/seg_tree_test.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o"
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/trie_test.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/trie_test.cpp.o"
-  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/word_dictionary.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o"
+  "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/main.cpp" "/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

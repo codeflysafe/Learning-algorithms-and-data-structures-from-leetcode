@@ -126,22 +126,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/binary_tree_test.cpp">
-			<Option target="c_project"/>
-		</Unit>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/double_array_tree_test.cpp">
-			<Option target="c_project"/>
-		</Unit>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp">
-			<Option target="c_project"/>
-		</Unit>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/seg_tree_test.cpp">
-			<Option target="c_project"/>
-		</Unit>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/trie_test.cpp">
-			<Option target="c_project"/>
-		</Unit>
-		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/word_dictionary.cpp">
+		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/main.cpp">
 			<Option target="c_project"/>
 		</Unit>
 		<Unit filename="/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/src/binary_tree.cpp">

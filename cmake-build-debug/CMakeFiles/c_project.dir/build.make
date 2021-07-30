@@ -76,106 +76,31 @@ include CMakeFiles/c_project.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/c_project.dir/flags.make
 
-CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o: ../examples/binary_tree_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/binary_tree_test.cpp
+CMakeFiles/c_project.dir/main.cpp.o: CMakeFiles/c_project.dir/flags.make
+CMakeFiles/c_project.dir/main.cpp.o: ../main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/c_project.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/main.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/main.cpp
 
-CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/binary_tree_test.cpp > CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.i
+CMakeFiles/c_project.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/main.cpp > CMakeFiles/c_project.dir/main.cpp.i
 
-CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/binary_tree_test.cpp -o CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.s
-
-CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o: ../examples/double_array_tree_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/double_array_tree_test.cpp
-
-CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/double_array_tree_test.cpp > CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.i
-
-CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/double_array_tree_test.cpp -o CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.s
-
-CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o: ../examples/seg_tree_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/seg_tree_test.cpp
-
-CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/seg_tree_test.cpp > CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.i
-
-CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/seg_tree_test.cpp -o CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.s
-
-CMakeFiles/c_project.dir/examples/trie_test.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/trie_test.cpp.o: ../examples/trie_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/c_project.dir/examples/trie_test.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/trie_test.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/trie_test.cpp
-
-CMakeFiles/c_project.dir/examples/trie_test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/trie_test.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/trie_test.cpp > CMakeFiles/c_project.dir/examples/trie_test.cpp.i
-
-CMakeFiles/c_project.dir/examples/trie_test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/trie_test.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/trie_test.cpp -o CMakeFiles/c_project.dir/examples/trie_test.cpp.s
-
-CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o: ../examples/prefix_and_suffix_search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp
-
-CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp > CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.i
-
-CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp -o CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.s
-
-CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o: CMakeFiles/c_project.dir/flags.make
-CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o: ../examples/word_dictionary.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o -c /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/word_dictionary.cpp
-
-CMakeFiles/c_project.dir/examples/word_dictionary.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/c_project.dir/examples/word_dictionary.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/word_dictionary.cpp > CMakeFiles/c_project.dir/examples/word_dictionary.cpp.i
-
-CMakeFiles/c_project.dir/examples/word_dictionary.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/examples/word_dictionary.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/word_dictionary.cpp -o CMakeFiles/c_project.dir/examples/word_dictionary.cpp.s
+CMakeFiles/c_project.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/c_project.dir/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/main.cpp -o CMakeFiles/c_project.dir/main.cpp.s
 
 # Object files for target c_project
 c_project_OBJECTS = \
-"CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o" \
-"CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o" \
-"CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o" \
-"CMakeFiles/c_project.dir/examples/trie_test.cpp.o" \
-"CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o" \
-"CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o"
+"CMakeFiles/c_project.dir/main.cpp.o"
 
 # External object files for target c_project
 c_project_EXTERNAL_OBJECTS =
 
-c_project: CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o
-c_project: CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o
-c_project: CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o
-c_project: CMakeFiles/c_project.dir/examples/trie_test.cpp.o
-c_project: CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o
-c_project: CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o
+c_project: CMakeFiles/c_project.dir/main.cpp.o
 c_project: CMakeFiles/c_project.dir/build.make
 c_project: libc_projects.dylib
 c_project: CMakeFiles/c_project.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable c_project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable c_project"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_project.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -11,11 +11,6 @@ add_library(${PROJECT_NAME} SHARED src/binary_tree.cpp
         src/seg_tree.cpp
         src/trie_template.cpp)
 
-add_executable(c_project examples/binary_tree_test.cpp
-        examples/double_array_tree_test.cpp
-        examples/seg_tree_test.cpp
-        examples/trie_test.cpp
-        examples/prefix_and_suffix_search.cpp
-        examples/word_dictionary.cpp)
+add_executable(c_project main.cpp)
 
 target_link_libraries(c_project ${PROJECT_NAME})

@@ -95,12 +95,12 @@ clean: CMakeFiles/c_projects.dir/clean
 CMakeFiles/c_project.dir/all: CMakeFiles/c_projects.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_project.dir/build.make CMakeFiles/c_project.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target c_project"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target c_project"
 .PHONY : CMakeFiles/c_project.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/c_project.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles 7
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/c_project.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/c_project.dir/rule
@@ -122,7 +122,7 @@ CMakeFiles/c_project.dir/clean:
 CMakeFiles/c_projects.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_projects.dir/build.make CMakeFiles/c_projects.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/c_projects.dir/build.make CMakeFiles/c_projects.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=8,9,10,11,12 "Built target c_projects"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles --progress-num=3,4,5,6,7 "Built target c_projects"
 .PHONY : CMakeFiles/c_projects.dir/all
 
 # Build rule for subdir invocation for target.

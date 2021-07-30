@@ -1,10 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/c_project.dir/examples/binary_tree_test.cpp.o"
-  "CMakeFiles/c_project.dir/examples/double_array_tree_test.cpp.o"
-  "CMakeFiles/c_project.dir/examples/prefix_and_suffix_search.cpp.o"
-  "CMakeFiles/c_project.dir/examples/seg_tree_test.cpp.o"
-  "CMakeFiles/c_project.dir/examples/trie_test.cpp.o"
-  "CMakeFiles/c_project.dir/examples/word_dictionary.cpp.o"
+  "CMakeFiles/c_project.dir/main.cpp.o"
   "c_project"
   "c_project.pdb"
 )
