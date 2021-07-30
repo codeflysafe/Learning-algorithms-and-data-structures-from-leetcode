@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/examples/prefix_and_suffix_search.cpp
+iostream
+-
+unordered_map
+-
+vector
+-
+
