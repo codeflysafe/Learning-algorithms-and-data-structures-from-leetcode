@@ -1,4 +1,0 @@
-/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_project.dir
-/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug/CMakeFiles/c_projects.dir

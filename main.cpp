@@ -69,7 +69,7 @@ void printNode(vector<string> ans)
 
 void searchPrefix(Trie *trie, string s){
     vector<string> ans = trie->search(s);
-    cout << "Search all strings with the same prefix [ " << s << " ]" << endl;
+    cout << "Search all Words with the same prefix [ " << s << " ]" << endl;
     printNode(ans);
 }
 
@@ -81,7 +81,9 @@ void trie_test(){
     searchPrefix(trie, s);
 }
 
-int main(string args){
+int main(int argc, char *argv[]){
+    if(argc > 1) return 1;
+
     trie_test();
     return 0;
 }

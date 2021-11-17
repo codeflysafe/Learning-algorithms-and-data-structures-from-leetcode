@@ -8,4 +8,4 @@
 3. -[ ] [BinaryTree](doc/binary_tree.md) 二叉树 
   
     - -[ ] [BinarySearchTree](docs/binary_search_tree.md) 二叉搜索树
-    
+4. -[ ] [并查集][docs/并查集.md] 并查集

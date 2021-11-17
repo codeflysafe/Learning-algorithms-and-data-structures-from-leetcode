@@ -9,8 +9,8 @@ include_directories(${PROJECT_SOURCE_DIR}/include/)
 add_library(${PROJECT_NAME} SHARED src/binary_tree.cpp
         src/double_array_tree.cpp
         src/seg_tree.cpp
-        src/trie_template.cpp)
+        src/trie_template.cpp
+        src/union_find.cpp)
 
 add_executable(c_project main.cpp)
-
 target_link_libraries(c_project ${PROJECT_NAME})

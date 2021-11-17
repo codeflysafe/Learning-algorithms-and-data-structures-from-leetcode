@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/c_project.dir/main.cpp.o -o c_project  -Wl,-rpath,/Users/sjhuang/Documents/docs/Learning-algorithms-and-data-structures-from-leetcode/cmake-build-debug libc_projects.dylib 
